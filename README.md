@@ -1,7 +1,7 @@
 # NitroFont
 NitroFont is a hobbyist, high-quality soundfont initially released on August 14, 2025, on the Polyphone website (https://www.polyphone.io/en). While it sounds mostly realistic, the goal when creating it wasn't to make it sound so--I just wanted it to sound good on my ears, by using some of my favorite samples. And, after several days of testing the soundfont, making adjustments, and trial-and-error, this is what was achieved.
 
-I was trying to make a high-quality soundfont as far back as 2022 (unless I'm wrong). Back then, I didn't have as many soundfont creation skills as I have today, so the soundfont I made sounded not so good. I deleted it--for good. In fact, I made multiple attempts at creating a high-quality soundfont. Many of the end results were scrapped because I couldn't achieve what I wanted to. But a few weeks ago, I made another attempt, and got satisfied with the final result in the end.
+I was trying to make a high-quality soundfont as far back as 2022 (unless I'm wrong). Back then, I didn't have as many soundfont creation skills as I have today, so the soundfont I made sounded not so good. I deleted it--for good. In fact, I made multiple attempts at creating a high-quality soundfont. Many of the end results were scrapped because I couldn't achieve what I wanted to. But eventually, I made another attempt, and got satisfied with the final result in the end.
 
 Being a high-quality soundfont, it takes up more disk space than the soundfonts I made before it, at ~50 MB--and it's unsurprising. The soundfont takes advantage of some of my favorite samples, taken from a wide variety of sources such as FluidR3 and GeneralUser GS.
 
