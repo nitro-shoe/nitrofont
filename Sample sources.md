@@ -37,3 +37,5 @@
 ~ 8MBGM Enhanced by holbred
 ~ Roland MV-30 (SC-55 Version) by MAG2001
 ~ Airfont 340 by Milton Paredes
+~ SgtPepperArc360 Soundfont by SgtPepperArc360
+~ Aspirin DX by Yingchun Soul
