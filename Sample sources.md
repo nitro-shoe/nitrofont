@@ -39,3 +39,4 @@
 ~ Airfont 340 by Milton Paredes
 ~ SgtPepperArc360 Soundfont by SgtPepperArc360
 ~ Aspirin DX by Yingchun Soul
+~ Online Sequencer 2.0 by OnuteWORLD Server
