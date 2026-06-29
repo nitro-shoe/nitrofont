@@ -7,7 +7,6 @@
 ~ A330 by Milton Paredes
 ~ RIM 8100 by William Borges dos Santos (samples most likely from SONiVOX)
 ~ Colombo MT-32 by Duwindu Tharinda
-~ MediaTek MTK6276 by William Borges dos Santos (samples from MediaTek)
 ~ SONiVOX EAS by William Borges dos Santos (samples from SONiVOX)
 ~ Roland SC-55 Soundfont series by EmperorGrieferus
 ~ Roland SC-55 Soundfont by Trevor0402 and Triaxis
@@ -23,7 +22,7 @@
 ~ Super Mario 64 by OnuteWORLD Server (original by Pablo's Corner)
 ~ GeneralUser GS by S. Christian Collins
 ~ Smash Remix by VidBew
-~ KEmulator by William Borges dos Santos
+~ Airfont 380 Final by Milton Paredes
 ~ Nokia 5140i (Chippy bank) by Nokia
 ~ SONiVOX FM by OnuteWORLD Server (samples from SONiVOX)
 ~ Nintendo 64 Soundfont by Roxie
@@ -39,4 +38,5 @@
 ~ Airfont 340 by Milton Paredes
 ~ SgtPepperArc360 Soundfont by SgtPepperArc360
 ~ Aspirin DX by Yingchun Soul
-~ Online Sequencer 2.0 by OnuteWORLD Server
+~ Super Princess Peach by Akira Fujiwara
+~ Hyper-VSC by yet another unknown user
