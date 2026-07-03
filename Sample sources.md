@@ -6,7 +6,6 @@
 ~ Creative 8MBGM by E-mu and Creative Labs
 ~ A330 by Milton Paredes
 ~ RIM 8100 by William Borges dos Santos (samples most likely from SONiVOX)
-~ Colombo MT-32 by Duwindu Tharinda
 ~ SONiVOX EAS by William Borges dos Santos (samples from SONiVOX)
 ~ Roland SC-55 Soundfont series by EmperorGrieferus
 ~ Roland SC-55 Soundfont by Trevor0402 and Triaxis
@@ -15,7 +14,6 @@
 ~ Nokia Big bank by Roe_2012, gtrxAC, and Romphonix Club (samples from Nokia)
 ~ EAWpats by Jamisson Tavares
 ~ A320U by Milton Paredes
-~ Saint James Orchestra by Simon JL
 ~ ColomboGMGS2 by Duwindu Tharinda (some are also from the RLNDGM sound set)
 ~ Creative 2MBGM by E-mu and Creative Labs
 ~ Lost Boys by Sonido Media
