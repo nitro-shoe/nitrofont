@@ -38,3 +38,4 @@
 ~ Aspirin DX by Yingchun Soul
 ~ Super Princess Peach by Akira Fujiwara
 ~ Hyper-VSC by yet another unknown user
+~ MediaTek MTK6276 by William Borges dos Santos
