@@ -29,7 +29,6 @@
 ~ Digidesign SampleCell II Factory Library Soundfont by bananaslicedbread (samples from Digidesign)
 ~ New Wave Station by Yingchun Soul
 ~ Chaos Bank V20 by an unknown user
-~ Mini Groove 88 by another unknown user
 ~ LiteGM by Caed
 ~ 8MBGM Enhanced by holbred
 ~ Roland MV-30 (SC-55 Version) by MAG2001
@@ -37,5 +36,5 @@
 ~ SgtPepperArc360 Soundfont by SgtPepperArc360
 ~ Aspirin DX by Yingchun Soul
 ~ Super Princess Peach by Akira Fujiwara
-~ Hyper-VSC by yet another unknown user
+~ Hyper-VSC by another unknown user
 ~ MediaTek MTK6276 by William Borges dos Santos
