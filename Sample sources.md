@@ -20,7 +20,6 @@
 ~ Super Mario 64 by OnuteWORLD Server (original by Pablo's Corner)
 ~ GeneralUser GS by S. Christian Collins
 ~ Smash Remix by VidBew
-~ Airfont 380 Final by Milton Paredes
 ~ Nokia 5140i (Chippy bank) by Nokia
 ~ SONiVOX FM by OnuteWORLD Server (samples from SONiVOX)
 ~ Nintendo 64 Soundfont by Roxie
@@ -36,5 +35,4 @@
 ~ SgtPepperArc360 Soundfont by SgtPepperArc360
 ~ Aspirin DX by Yingchun Soul
 ~ Super Princess Peach by Akira Fujiwara
-~ Hyper-VSC by another unknown user
 ~ MediaTek MTK6276 by William Borges dos Santos
